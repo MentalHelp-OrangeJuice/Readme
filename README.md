@@ -45,7 +45,7 @@
 
 * **Desenvolvedores**
 
->  :smiley: Analice, Cristian Leonardo, Dan, Diogo Reis, João Silva, Lé, Lorena Debs...
+>  :smiley: Analice, Christian Leonardo, Dan, Diogo Reis, João Silva, Lé, Lorena Debs...
 
 <hr>
 
